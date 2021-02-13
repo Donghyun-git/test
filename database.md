@@ -67,7 +67,7 @@
 > > SELECT *
 	FROM dong LEFT JOIN DDONG ON id = dong id;     //dong 테이블과 DDONG 테이블을 합쳐서 보여주는데 dong의 id와 DDONG id가 같음.
 
-이이이이이이이이
+
 
 
 
